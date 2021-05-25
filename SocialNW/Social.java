@@ -1,7 +1,7 @@
 
 package SocialNW;
 /**
- * @author Eng.Mohamed
+ * @author Eng.Mohamed Mahmoud
  */
 public class Social {
     public static void main(String[] args) {
